@@ -14,6 +14,14 @@ The LLM achieved a **64% accuracy** on this difficult subset, substantially impr
 
 ---
 
+## Data
+
+The dataset used for this project comes from Kaggle’s **Fake and Real News Dataset**, which contains over 40,000 labeled news articles.  
+It can be accessed directly here:
+
+[Fake and Real News Dataset – Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
+
+
 ## Skills Used
 
 - Classical machine learning (Logistic Regression, TF-IDF feature extraction)  
